@@ -41,3 +41,7 @@ tenant or landlord page
 
 
 ## :books: LIBRARY
+
+## :package: REPOSITORY
+- [Frontend Repository](https://github.com/2024OSS-Telo/Telo_flutter)
+- [Backend Repository](https://github.com/2024OSS-Telo/Telo_spring)
