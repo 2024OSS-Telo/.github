@@ -1,7 +1,7 @@
 # Editing...
 
 # TELO
-telo logo image
+telo introduction
 
 
 ## :information_desk_person: TEAM MEMBER
@@ -10,8 +10,7 @@ telo logo image
 |김시현|[SiHejt](https://github.com/SiHejt)|
 |김수민|[angelsusum](https://github.com/angelsusum)|
 
-## 📚 STACKS
-
+## :books: STACKS
 <div> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
@@ -21,14 +20,21 @@ telo logo image
 <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
+## :pushpin: MAIN FEATURES
 
-<!--
+### :couple: member type selection
+tenant or landlord page
 
-**Here are some ideas to get you started:**
+### :page_facing_up: main page
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### :office: building registeration
+
+
+### :house: resident registeration
+
+
+### :wrench: repair registration
+
+
+### :speech_balloon: chatting
