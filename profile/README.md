@@ -10,7 +10,7 @@ telo introduction
 |김시현|[SiHejt](https://github.com/SiHejt)|
 |김수민|[angelsusum](https://github.com/angelsusum)|
 
-## :books: STACKS
+## :hammer_and_wrench: STACKS
 <div> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
@@ -22,19 +22,22 @@ telo introduction
 
 ## :pushpin: MAIN FEATURES
 
-### :couple: member type selection
+#### :couple: member type selection
 tenant or landlord page
 
-### :page_facing_up: main page
+#### :page_facing_up: main page
 
 
-### :office: building registeration
+#### :office: building registeration
 
 
-### :house: resident registeration
+#### :house: resident registeration
 
 
-### :wrench: repair registration
+#### :wrench: repair registration
 
 
-### :speech_balloon: chatting
+#### :speech_balloon: chatting
+
+
+## :books: LIBRARY
