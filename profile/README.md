@@ -40,8 +40,9 @@ tenant or landlord page
 #### :speech_balloon: chatting
 
 
-## :books: LIBRARY
-
 ## :package: REPOSITORY
 - [Frontend Repository](https://github.com/2024OSS-Telo/Telo_flutter)
-- [Backend Repository](https://github.com/2024OSS-Telo/Telo_spring)
+- [Backend Repository](https://github.com/2024OSS-Telo/Telo_spring) 
+
+## :books: LIBRARY
+
