@@ -96,7 +96,9 @@ TEnant + landLOrd
 <br>
 
 ## 🔗 Demo Video
-[![Demo Video](🔗)](https://youtu.be/Vomh9vdjpUA?si=cXszhdTwO8HwI-0v)
+<a href="https://youtu.be/Vomh9vdjpUA?si=cXszhdTwO8HwI-0v">
+    <img src="https://github.com/user-attachments/assets/dfc4a549-e7be-4dbf-aedb-e5057bb2e284" alt="Demo Video" width="500">
+</a>
 
 ## :package: REPOSITORY
 - [Frontend Repository](https://github.com/2024OSS-Telo/Telo_flutter)
