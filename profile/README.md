@@ -95,27 +95,6 @@ TEnant + landLOrd
 
 <br>
 
-
-## 삭제예정
-<img src="https://github.com/user-attachments/assets/51ab71b1-3a51-479d-bc0b-5e2200ff7965" width="200"/>
-<img src="https://github.com/user-attachments/assets/9d473d84-f62d-4b74-8c6c-9f5224b38079" width="200"/>
-<img src="https://github.com/user-attachments/assets/8471bd40-6481-45b2-885d-5d42e8ce4d24" width="200"/>
-<img src="https://github.com/user-attachments/assets/9da102e5-7994-429f-a507-5ec6469c1211" width="200"/>
-<img src="https://github.com/user-attachments/assets/5c15c609-06ce-4294-91c4-7ea52aacaf38" width="200"/>
-<img src="https://github.com/user-attachments/assets/bb09e87b-feb3-442d-9816-cf637537629f" width="200"/>
-<img src="https://github.com/user-attachments/assets/00e5c0c2-2973-4dc9-9508-242c2d596502" width="200"/>
-<img src="https://github.com/user-attachments/assets/d3e3a8f0-4d68-49f5-9aa1-47789b027efc" width="200"/>
-<img src="https://github.com/user-attachments/assets/a32c1162-ea15-49d6-8c16-b77e9395ea6c" width="200"/>
-<img src="https://github.com/user-attachments/assets/c9805349-4127-4b89-b1f0-291e64d326fc" width="200"/>
-<img src="https://github.com/user-attachments/assets/1d1a292c-7bd2-4636-adea-c6f1bf63f0c8" width="200"/>
-<img src="https://github.com/user-attachments/assets/20989974-a4c2-4954-b9a2-b2079f199454" width="200"/>
-<img src="https://github.com/user-attachments/assets/25218bde-4ed5-418d-86b6-dca401e266b9" width="200"/> 
-<img src="https://github.com/user-attachments/assets/141f1b0c-0103-4b50-b2d2-ee7279c9ad5a" width="200"/>
-<img src="https://github.com/user-attachments/assets/e92ffe2b-2293-4b8d-8706-208bfa1ca187" width="200"/>
-
-
-
-
 ## :package: REPOSITORY
 - [Frontend Repository](https://github.com/2024OSS-Telo/Telo_flutter)
 - [Backend Repository](https://github.com/2024OSS-Telo/Telo_spring) 
