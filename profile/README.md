@@ -1,7 +1,7 @@
 # TELO
 TEnant + landLOrd  
 <br>
-![MIT License](https://example.com/mit-license-image.png)
+![License](https://img.shields.io/badge/License-MIT-green)
 <br>
 <img src="https://github.com/user-attachments/assets/dfc4a549-e7be-4dbf-aedb-e5057bb2e284" width="500"/>
 > ‘텔로’는 집의 유지 보수 요청, 임대료 관리, 계약 문서 관리 등의 기능을 지원하는 서비스로, 임차인 임대인 간의 편리한 소통 플랫폼을 목적으로 하고 있다. 임대인은 임대 중인 건물과 해당 건물의 임차인 정보를 한눈에 볼 수 있으며 특정 건물에 대한 공지 사항을 게시할 수 있다. 또한 임차인이 집에 대한 수리를 요청할 때 그 과정과 비용을 투명하게 받아볼 수 있다. 임차인은 사진과 함께 유지 보수 요청을 전달하고 처리 현황을 확인할 수 있다. 집 계약 시 관련된 주요 문서를 사진 및 텍스트로 관리하여 필요 시 언제든 접근할 수도 있다.  
