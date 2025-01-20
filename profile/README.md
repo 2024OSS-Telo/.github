@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6e828a62-4ce3-4e19-8409-e2f7e765dfe4)# TELO
+# TELO
 TEnant + landLOrd  
 <br>
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -25,8 +25,7 @@ TEnant + landLOrd
 </div>
 
 ## :gear: SYSTEM ARCHITECTURE
-![image](https://github.com/user-attachments/assets/c8a4b1b9-6449-4e54-826c-e9f2221f0afc)
-
+<img src="https://github.com/user-attachments/assets/c8a4b1b9-6449-4e54-826c-e9f2221f0afc" width="500"/>
 
 ## :pushpin: MAIN FEATURES
 
