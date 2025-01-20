@@ -1,4 +1,4 @@
-# TELO
+![image](https://github.com/user-attachments/assets/6e828a62-4ce3-4e19-8409-e2f7e765dfe4)# TELO
 TEnant + landLOrd  
 <br>
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -23,6 +23,9 @@ TEnant + landLOrd
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
+
+## :gear: SYSTEM ARCHITECTURE
+![image](https://github.com/user-attachments/assets/c8a4b1b9-6449-4e54-826c-e9f2221f0afc)
 
 
 ## :pushpin: MAIN FEATURES
