@@ -12,7 +12,7 @@ TEnant + landLOrd
 |Name|Github ID|
 |------|-------|
 |김시현|[SiHejt](https://github.com/SiHejt)|
-|김수민|[angelsusum](https://github.com/angelsusum)|
+|김수민|[uiwnsum](https://github.com/uiwnsum)|
   
 ## :hammer_and_wrench: STACKS
 <div> 
